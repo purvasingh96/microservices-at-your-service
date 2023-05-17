@@ -11,5 +11,7 @@
   c. https://www.youtube.com/watch?v=yKZVdkrTBTg&ab_channel=LearnCodeWithDurgesh <br>
   
 ### Eureka Dashboard
-Once your project is up and running, visit the following link: http://localhost:8761/
+Once your project is up and running, visit the following link: http://localhost:8761/ and your eureka dashboard (with currently no instances registered with Eureka) should look as below:
+![eureka-dashboard-1](https://github.com/purvasingh96/microservices-at-your-service/blob/master/img/eureka-dashboard-empty-1.png)
+![eureka-dashboard-2](https://github.com/purvasingh96/microservices-at-your-service/blob/master/img/eureka-dashboard-empty-2.png)
 
